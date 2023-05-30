@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-I'm Danish, a passionate developer from India. Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions in the field of Computer Science.
+# Hi there,I'm Danish, a passionate developer from India. Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions in the field of Computer Science. 👋
 
 ## 📊 Stats
 
