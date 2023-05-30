@@ -5,6 +5,7 @@ I'm Danish, a passionate developer from India. Welcome to my GitHub profile! Her
 ## 📊 Stats
 
 ![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daanishhshaikh&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daanishhshaikh&layout=compact)
 
 ## 🌱 Skills
 
