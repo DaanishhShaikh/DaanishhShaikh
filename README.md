@@ -40,7 +40,8 @@ Here's a glimpse of my GitHub stats:
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white&color=557C94&logoWidth=20)
 ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=ethereum&logoColor=white&color=F16822&logoWidth=20)
 ![NMap](https://img.shields.io/badge/-NMap-000000?style=flat-square&logo=nmap&logoColor=white&color=000000&logoWidth=20)
-![Aircrack-ng](https://img.shields.io/badge/-Aircrack-ng-1F8ACB?style=flat-square&logo=aircrack-ng&logoColor=white&color=1F8ACB&logoWidth=20)
+![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-1F8ACB?style=flat-square&logo=aircrack-ng&logoColor=white&color=1F8ACB&logoWidth=20)
+
 
 ## 💡 Interests
 
