@@ -4,9 +4,7 @@ I'm Danish, a passionate developer from India. Welcome to my GitHub profile! Her
 
 ## 📊 Stats
 
-Here's a glimpse of my GitHub stats:
-![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daanishhshaikh&show_icons=true&theme=radical)
-
+![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daanishhshaikh&hide=stars,commits,prs,issues&show_icons=true&theme=tokyonight)
 
 ## 🌱 Skills
 
@@ -18,9 +16,9 @@ Here's a glimpse of my GitHub stats:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C&logoWidth=20)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white&color=007396&logoWidth=20)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&color=3776AB&logoWidth=20)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white&color=276DC3&logoWidth=20)
-
-### Data Structures and Algorithms
+![Computer Networking](https://img.shields.io/badge/-Computer%20Networking-00BFFF?style=flat-square&logo=network&logoColor=white&color=00BFFF&logoWidth=20)
+![DBMS](https://img.shields.io/badge/-DBMS-FFA500?style=flat-square&logo=database&logoColor=white&color=FFA500&logoWidth=20)
+![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-000000?style=flat-square&logo=linux&logoColor=white&color=000000&logoWidth=20)
 ![DSA](https://img.shields.io/badge/-DSA-FF6F00?style=flat-square&logo=algorithm&logoColor=white&color=FF6F00&logoWidth=20)
 
 ### Frameworks and Libraries
@@ -41,6 +39,10 @@ Here's a glimpse of my GitHub stats:
 ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=ethereum&logoColor=white&color=F16822&logoWidth=20)
 ![NMap](https://img.shields.io/badge/-NMap-000000?style=flat-square&logo=nmap&logoColor=white&color=000000&logoWidth=20)
 ![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-1F8ACB?style=flat-square&logo=aircrack-ng&logoColor=white&color=1F8ACB&logoWidth=20)
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-262626?style=flat-square&logo=john-the-ripper&logoColor=white&color=262626&logoWidth=20)
+![Metasploit](https://img.shields.io/badge/-Metasploit-DC382D?style=flat-square&logo=metasploit&logoColor=white&color=DC382D&logoWidth=20)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&color=1679A7&logoWidth=20)
+![Hashcat](https://img.shields.io/badge/-Hashcat-2E3440?style=flat-square&logo=hashcat&logoColor=white&color=2E3440&logoWidth=20)
 
 
 ## 💡 Interests
@@ -55,7 +57,7 @@ Here are my current areas of focus and interests:
 
 - **Ethical Hacking**: I have a curiosity for ethical hacking and cybersecurity. Understanding vulnerabilities, conducting penetration testing, and ensuring secure software development are areas I actively explore.
 
-I am always eager to collaborate with like-minded individuals and work on exciting projects. Let's connect and together build the next big thing that people will talk about! 😄
+I am always eager to collaborate with like-minded individuals and work on exciting projects. Let's connect and together build the next big thing that people will talk about!😄
 
 
 ## 📫 Contact Me
